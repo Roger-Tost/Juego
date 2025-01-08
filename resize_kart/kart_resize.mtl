@@ -1,0 +1,60 @@
+newmtl bluecornet1:mat_3_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd bluecornet.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl bluecornet1:mat_4_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd bluecornettracks.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl bluecornet1:mat_4_004
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd bluecornettracks.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl bluecornet1:mat_5_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd bluecornet.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl bluecornet1:mat_10_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd bluecornet.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl bluecornet1:mat_11_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd bluecornet.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
